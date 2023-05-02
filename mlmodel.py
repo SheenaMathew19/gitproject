@@ -11,3 +11,4 @@ def mode2():
     print("this is a model 2")
 def model3():
     print("this is a model3")
+print("model 2 is the best")
